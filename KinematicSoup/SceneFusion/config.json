@@ -1,0 +1,9 @@
+{
+	"projectId": 1,
+	"projectName": "Hack Club Haven 2026",
+	"scene": "SampleScene",
+	"creator": "Riley Harrington",
+	"version": "2.0.5",
+	"port": 8000,
+	"application": "Unity 6000.6.8f1"
+}

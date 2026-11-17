@@ -2,8 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - WallJump
+  - WallBounce
   layers:
   - Default
   - TransparentFX
@@ -11,8 +13,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - Ground
   - 
   - 
   - 
@@ -38,6 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1589371665
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Platforms
+    uniqueID: 3976514739
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
